@@ -1,0 +1,9 @@
+# Local config (never commit secrets)
+config.json
+
+# macOS
+.DS_Store
+
+# Archives
+*.zip
+dist/
