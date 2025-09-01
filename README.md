@@ -1,7 +1,9 @@
 Standup Room Chrome Extension
 =============================
 
-MVP extension to run quick standups with room-based presence using Supabase Realtime.
+Chrome Web Store extension: https://chromewebstore.google.com/detail/iebkaopahcnhndaoganampgoaidglbhg?utm_source=item-share-cb
+
+Extension to run quick standups with room-based presence using Supabase Realtime.
 
 <img width="450" height="400" alt="Screenshot%202025-08-30%20at%2012 38 25_resized (1)" src="https://github.com/user-attachments/assets/6ac4490a-ed92-4919-9749-bbf43efb645a" />
 
